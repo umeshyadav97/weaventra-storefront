@@ -1,0 +1,128 @@
+[
+    {
+        "prompt_id":  25,
+        "section":  "Product catalogue",
+        "title":  "Ivory wool rug",
+        "product_id":  "WV-RUG-003",
+        "category":  "Flatweave",
+        "image":  "/images/products/pexels/concept-ivory-wool.jpeg",
+        "source":  "https://www.pexels.com/photo/surface-of-textured-wool-carpet-as-background-7717498/"
+    },
+    {
+        "prompt_id":  26,
+        "section":  "Product catalogue",
+        "title":  "Indigo geometric rug",
+        "product_id":  "WV-RUG-004",
+        "category":  "Kilim",
+        "image":  "/images/products/pexels/concept-indigo-geometric.jpeg",
+        "source":  "https://www.pexels.com/photo/on-the-mosque-rug-27799631/"
+    },
+    {
+        "prompt_id":  27,
+        "section":  "Product catalogue",
+        "title":  "Terracotta abstract rug",
+        "product_id":  "WV-RUG-002",
+        "category":  "Hand-tufted",
+        "image":  "/images/products/pexels/concept-terracotta-abstract.jpeg",
+        "source":  "https://www.pexels.com/photo/cozy-bohemian-corner-with-potted-plants-and-rug-33648813/"
+    },
+    {
+        "prompt_id":  28,
+        "section":  "Product catalogue",
+        "title":  "Heritage floral rug",
+        "product_id":  "WV-RUG-001",
+        "category":  "Hand-knotted",
+        "image":  "/images/products/pexels/concept-heritage-floral.jpeg",
+        "source":  "https://www.pexels.com/photo/texture-of-a-beautiful-carpet-28389985/"
+    },
+    {
+        "prompt_id":  29,
+        "section":  "Product catalogue",
+        "title":  "Monochrome rug",
+        "product_id":  "WV-RUG-008",
+        "category":  "Dhurrie",
+        "image":  "/images/products/pexels/concept-monochrome.jpeg",
+        "source":  "https://www.pexels.com/photo/ornamental-rug-texture-as-abstract-background-6044460/"
+    },
+    {
+        "prompt_id":  30,
+        "section":  "Product catalogue",
+        "title":  "Natural jute rug",
+        "product_id":  "WV-RUG-005",
+        "category":  "Handwoven",
+        "image":  "/images/products/pexels/concept-natural-jute.jpeg",
+        "source":  "https://www.pexels.com/photo/close-up-of-natural-braided-jute-texture-36319625/"
+    },
+    {
+        "prompt_id":  31,
+        "section":  "Product catalogue",
+        "title":  "Silk luxury rug",
+        "product_id":  "WV-RUG-014",
+        "category":  "Hand-knotted",
+        "image":  "/images/products/pexels/concept-silk-luxury.jpeg",
+        "source":  "https://www.pexels.com/photo/close-up-photo-of-a-smooth-cream-textile-8465992/"
+    },
+    {
+        "prompt_id":  32,
+        "section":  "Product catalogue",
+        "title":  "Kilim runner",
+        "product_id":  "WV-RUG-013",
+        "category":  "Kilim",
+        "image":  "/images/products/pexels/concept-kilim-runner.jpeg",
+        "source":  "https://www.pexels.com/photo/top-view-of-colorful-carpets-10352361/"
+    },
+    {
+        "prompt_id":  13,
+        "section":  "Style collection",
+        "title":  "Modern rugs",
+        "product_id":  "WV-RUG-012",
+        "category":  "Hand-tufted",
+        "image":  "/images/products/pexels/gallery-style-modern.jpeg",
+        "source":  "https://www.pexels.com/photo/a-rug-with-an-abstract-pattern-hanging-on-the-wall-24821557/"
+    },
+    {
+        "prompt_id":  14,
+        "section":  "Style collection",
+        "title":  "Moroccan rugs",
+        "product_id":  "WV-RUG-007",
+        "category":  "Handwoven",
+        "image":  "/images/products/pexels/gallery-style-moroccan.jpeg",
+        "source":  "https://www.pexels.com/photo/traditional-moroccan-textile-with-intricate-patterns-31854096/"
+    },
+    {
+        "prompt_id":  15,
+        "section":  "Style collection",
+        "title":  "Vintage rugs",
+        "product_id":  "WV-RUG-010",
+        "category":  "Hand-knotted",
+        "image":  "/images/products/pexels/gallery-style-vintage.jpeg",
+        "source":  "https://www.pexels.com/photo/sunlit-interior-with-vintage-rug-and-modern-decor-32072732/"
+    },
+    {
+        "prompt_id":  16,
+        "section":  "Style collection",
+        "title":  "Traditional rugs",
+        "product_id":  "WV-RUG-006",
+        "category":  "Hand-knotted",
+        "image":  "/images/products/pexels/gallery-style-traditional.jpeg",
+        "source":  "https://www.pexels.com/photo/traditional-carpet-shop-in-an-old-bazaar-36874776/"
+    },
+    {
+        "prompt_id":  17,
+        "section":  "Style collection",
+        "title":  "Scandinavian rugs",
+        "product_id":  "WV-RUG-011",
+        "category":  "Handwoven",
+        "image":  "/images/products/pexels/gallery-style-scandinavian.jpeg",
+        "source":  "https://www.pexels.com/photo/sofa-with-cushions-19367517/"
+    },
+    {
+        "prompt_id":  18,
+        "section":  "Style collection",
+        "title":  "Bohemian rugs",
+        "product_id":  "WV-RUG-015",
+        "category":  "Kilim",
+        "image":  "/images/products/pexels/gallery-style-bohemian.jpeg",
+        "source":  "https://www.pexels.com/photo/pillows-and-blankets-on-an-exhibition-18714557/"
+    }
+]

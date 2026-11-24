@@ -1,0 +1,526 @@
+[
+  {
+    "id": "WV-RUG-001",
+    "name": "Heritage Bloom",
+    "slug": "heritage-bloom",
+    "category": "Hand-knotted",
+    "technique": "Hand-knotted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Persian floral",
+    "colors": [
+      "Ivory",
+      "sand",
+      "rust",
+      "muted navy"
+    ],
+    "description": "A finely detailed floral medallion design with an aged ivory field and restrained rust and navy accents.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/heritage-bloom/main.webp",
+      "gallery": [
+        "/images/products/heritage-bloom/detail-1.webp",
+        "/images/products/heritage-bloom/room.webp"
+      ]
+    },
+    "isFeatured": true,
+    "status": "draft",
+    "seoTitle": "Heritage Bloom Handmade Rug | WEAVENTRA",
+    "seoDescription": "A finely detailed floral medallion design with an aged ivory field and restrained rust and navy accents."
+  },
+  {
+    "id": "WV-RUG-002",
+    "name": "Terra Form",
+    "slug": "terra-form",
+    "category": "Hand-tufted",
+    "technique": "Hand-tufted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Organic abstract",
+    "colors": [
+      "Terracotta",
+      "chalk",
+      "espresso"
+    ],
+    "description": "Sculptural freeform blocks and flowing outlines create a contemporary statement piece.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/terra-form/main.webp",
+      "gallery": [
+        "/images/products/terra-form/detail-1.webp",
+        "/images/products/terra-form/room.webp"
+      ]
+    },
+    "isFeatured": true,
+    "status": "draft",
+    "seoTitle": "Terra Form Handmade Rug | WEAVENTRA",
+    "seoDescription": "Sculptural freeform blocks and flowing outlines create a contemporary statement piece."
+  },
+  {
+    "id": "WV-RUG-003",
+    "name": "Nordic Weave",
+    "slug": "nordic-weave",
+    "category": "Flatweave",
+    "technique": "Flatweave",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Minimal / textural",
+    "colors": [
+      "Natural ivory",
+      "oatmeal"
+    ],
+    "description": "A quiet, finely structured flatweave with subtle tonal variation and a clean natural finish.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/nordic-weave/main.webp",
+      "gallery": [
+        "/images/products/nordic-weave/detail-1.webp",
+        "/images/products/nordic-weave/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Nordic Weave Handmade Rug | WEAVENTRA",
+    "seoDescription": "A quiet, finely structured flatweave with subtle tonal variation and a clean natural finish."
+  },
+  {
+    "id": "WV-RUG-004",
+    "name": "Indigo Nomad",
+    "slug": "indigo-nomad",
+    "category": "Kilim",
+    "technique": "Kilim",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Geometric",
+    "colors": [
+      "Indigo",
+      "bone",
+      "faded ochre"
+    ],
+    "description": "A crisp kilim-inspired geometric composition with stepped motifs and strong indigo contrast.",
+    "availableSizes": [
+      "4x6 ft",
+      "5x8 ft",
+      "runner"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/indigo-nomad/main.webp",
+      "gallery": [
+        "/images/products/indigo-nomad/detail-1.webp",
+        "/images/products/indigo-nomad/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Indigo Nomad Handmade Rug | WEAVENTRA",
+    "seoDescription": "A crisp kilim-inspired geometric composition with stepped motifs and strong indigo contrast."
+  },
+  {
+    "id": "WV-RUG-005",
+    "name": "Earthline",
+    "slug": "earthline",
+    "category": "Handwoven",
+    "technique": "Handwoven",
+    "materials": [
+      "Jute"
+    ],
+    "style": "Graphic natural",
+    "colors": [
+      "Natural jute",
+      "charcoal"
+    ],
+    "description": "A tactile natural jute rug with a bold charcoal linear motif and relaxed earthy character.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/earthline/main.webp",
+      "gallery": [
+        "/images/products/earthline/detail-1.webp",
+        "/images/products/earthline/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Earthline Handmade Rug | WEAVENTRA",
+    "seoDescription": "A tactile natural jute rug with a bold charcoal linear motif and relaxed earthy character."
+  },
+  {
+    "id": "WV-RUG-006",
+    "name": "Royal Garnet",
+    "slug": "royal-garnet",
+    "category": "Hand-knotted",
+    "technique": "Hand-knotted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Traditional oriental",
+    "colors": [
+      "Garnet",
+      "midnight blue",
+      "antique beige"
+    ],
+    "description": "A richly coloured traditional composition with a defined border and intricate central ornament.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/royal-garnet/main.webp",
+      "gallery": [
+        "/images/products/royal-garnet/detail-1.webp",
+        "/images/products/royal-garnet/room.webp"
+      ]
+    },
+    "isFeatured": true,
+    "status": "draft",
+    "seoTitle": "Royal Garnet Handmade Rug | WEAVENTRA",
+    "seoDescription": "A richly coloured traditional composition with a defined border and intricate central ornament."
+  },
+  {
+    "id": "WV-RUG-007",
+    "name": "Botanical Calm",
+    "slug": "botanical-calm",
+    "category": "Hand-tufted",
+    "technique": "Hand-tufted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Botanical",
+    "colors": [
+      "Sage",
+      "warm ivory",
+      "olive"
+    ],
+    "description": "Loose botanical forms and soft tonal transitions bring a garden-inspired feel to a modern room.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/botanical-calm/main.webp",
+      "gallery": [
+        "/images/products/botanical-calm/detail-1.webp",
+        "/images/products/botanical-calm/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Botanical Calm Handmade Rug | WEAVENTRA",
+    "seoDescription": "Loose botanical forms and soft tonal transitions bring a garden-inspired feel to a modern room."
+  },
+  {
+    "id": "WV-RUG-008",
+    "name": "Monochrome Story",
+    "slug": "monochrome-story",
+    "category": "Dhurrie",
+    "technique": "Dhurrie",
+    "materials": [
+      "Cotton"
+    ],
+    "style": "Stripe / contemporary",
+    "colors": [
+      "Chalk",
+      "ink black"
+    ],
+    "description": "A lightweight cotton dhurrie with varied stripe widths and a restrained monochrome palette.",
+    "availableSizes": [
+      "4x6 ft",
+      "5x8 ft",
+      "runner"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/monochrome-story/main.webp",
+      "gallery": [
+        "/images/products/monochrome-story/detail-1.webp",
+        "/images/products/monochrome-story/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Monochrome Story Handmade Rug | WEAVENTRA",
+    "seoDescription": "A lightweight cotton dhurrie with varied stripe widths and a restrained monochrome palette."
+  },
+  {
+    "id": "WV-RUG-009",
+    "name": "Lavender Terrain",
+    "slug": "lavender-terrain",
+    "category": "Hand-tufted",
+    "technique": "Hand-tufted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Contemporary abstract",
+    "colors": [
+      "Dusty lavender",
+      "stone",
+      "cream"
+    ],
+    "description": "Layered soft-edged forms in muted lavender and stone give this rug a calm sculptural presence.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/lavender-terrain/main.webp",
+      "gallery": [
+        "/images/products/lavender-terrain/detail-1.webp",
+        "/images/products/lavender-terrain/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Lavender Terrain Handmade Rug | WEAVENTRA",
+    "seoDescription": "Layered soft-edged forms in muted lavender and stone give this rug a calm sculptural presence."
+  },
+  {
+    "id": "WV-RUG-010",
+    "name": "Vintage Revival",
+    "slug": "vintage-revival",
+    "category": "Hand-knotted",
+    "technique": "Hand-knotted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Distressed vintage",
+    "colors": [
+      "Washed rust",
+      "faded blue",
+      "parchment"
+    ],
+    "description": "A gently distressed ornamental pattern evokes a well-loved vintage rug without looking overly busy.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/vintage-revival/main.webp",
+      "gallery": [
+        "/images/products/vintage-revival/detail-1.webp",
+        "/images/products/vintage-revival/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Vintage Revival Handmade Rug | WEAVENTRA",
+    "seoDescription": "A gently distressed ornamental pattern evokes a well-loved vintage rug without looking overly busy."
+  },
+  {
+    "id": "WV-RUG-011",
+    "name": "Cloud Texture",
+    "slug": "cloud-texture",
+    "category": "Handwoven",
+    "technique": "Handwoven",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Chunky / tactile",
+    "colors": [
+      "Undyed ivory",
+      "natural cream"
+    ],
+    "description": "A plush-looking, irregularly textured wool surface celebrates material and handwoven character.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/cloud-texture/main.webp",
+      "gallery": [
+        "/images/products/cloud-texture/detail-1.webp",
+        "/images/products/cloud-texture/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Cloud Texture Handmade Rug | WEAVENTRA",
+    "seoDescription": "A plush-looking, irregularly textured wool surface celebrates material and handwoven character."
+  },
+  {
+    "id": "WV-RUG-012",
+    "name": "Modern Grid",
+    "slug": "modern-grid",
+    "category": "Hand-tufted",
+    "technique": "Hand-tufted",
+    "materials": [
+      "Wool"
+    ],
+    "style": "Geometric modern",
+    "colors": [
+      "Black",
+      "ivory",
+      "warm grey"
+    ],
+    "description": "An architectural checker and grid composition with confident contrast and clean edges.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/modern-grid/main.webp",
+      "gallery": [
+        "/images/products/modern-grid/detail-1.webp",
+        "/images/products/modern-grid/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Modern Grid Handmade Rug | WEAVENTRA",
+    "seoDescription": "An architectural checker and grid composition with confident contrast and clean edges."
+  },
+  {
+    "id": "WV-RUG-013",
+    "name": "Jaipur Strata",
+    "slug": "jaipur-strata",
+    "category": "Dhurrie",
+    "technique": "Dhurrie",
+    "materials": [
+      "Cotton"
+    ],
+    "style": "Multistripe / heritage-inspired",
+    "colors": [
+      "Brick",
+      "saffron",
+      "indigo",
+      "natural"
+    ],
+    "description": "A lively handwoven stripe layout using warm colours and a rhythmic, balanced pattern.",
+    "availableSizes": [
+      "4x6 ft",
+      "5x8 ft",
+      "runner"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/jaipur-strata/main.webp",
+      "gallery": [
+        "/images/products/jaipur-strata/detail-1.webp",
+        "/images/products/jaipur-strata/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Jaipur Strata Handmade Rug | WEAVENTRA",
+    "seoDescription": "A lively handwoven stripe layout using warm colours and a rhythmic, balanced pattern."
+  },
+  {
+    "id": "WV-RUG-014",
+    "name": "Ivory Majesty",
+    "slug": "ivory-majesty",
+    "category": "Hand-knotted",
+    "technique": "Hand-knotted",
+    "materials": [
+      "Wool",
+      "silk"
+    ],
+    "style": "Subtle medallion",
+    "colors": [
+      "Ivory",
+      "champagne",
+      "soft gold"
+    ],
+    "description": "A refined low-contrast medallion with a delicate sheen and intricate tonal detailing.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/ivory-majesty/main.webp",
+      "gallery": [
+        "/images/products/ivory-majesty/detail-1.webp",
+        "/images/products/ivory-majesty/room.webp"
+      ]
+    },
+    "isFeatured": true,
+    "status": "draft",
+    "seoTitle": "Ivory Majesty Handmade Rug | WEAVENTRA",
+    "seoDescription": "A refined low-contrast medallion with a delicate sheen and intricate tonal detailing."
+  },
+  {
+    "id": "WV-RUG-015",
+    "name": "Desert Horizon",
+    "slug": "desert-horizon",
+    "category": "Handwoven",
+    "technique": "Handwoven",
+    "materials": [
+      "Jute",
+      "wool"
+    ],
+    "style": "Organic border / natural",
+    "colors": [
+      "Sand",
+      "camel",
+      "muted terracotta"
+    ],
+    "description": "A natural-fibre blend with an irregular terracotta border and a relaxed desert-inspired palette.",
+    "availableSizes": [
+      "5x8 ft",
+      "6x9 ft",
+      "8x10 ft"
+    ],
+    "price": null,
+    "currency": "USD",
+    "images": {
+      "primary": "/images/products/desert-horizon/main.webp",
+      "gallery": [
+        "/images/products/desert-horizon/detail-1.webp",
+        "/images/products/desert-horizon/room.webp"
+      ]
+    },
+    "isFeatured": false,
+    "status": "draft",
+    "seoTitle": "Desert Horizon Handmade Rug | WEAVENTRA",
+    "seoDescription": "A natural-fibre blend with an irregular terracotta border and a relaxed desert-inspired palette."
+  }
+]
